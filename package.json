@@ -1,6 +1,6 @@
 {
   "name": "cameronhunter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "CLI utility for details about Cameron Hunter",
   "main": "index.js",
   "author": "Cameron Hunter <hello@cameronhunter.co.uk>",
